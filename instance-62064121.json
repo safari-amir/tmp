@@ -1,0 +1,53 @@
+{
+  "instance": {
+    "id": "62064121-21fb-4d24-90bd-9eebe0a4d88c",
+    "processKey": "process_993d3864",
+    "processName": "فرایند جدید",
+    "status": "completed",
+    "subject": "ff",
+    "practitioner": "n;",
+    "createdAt": "2026-09-06T10:33:59.149Z",
+    "completedAt": "2026-09-06T10:35:24.358Z",
+    "progress": {
+      "totalSteps": 2,
+      "doneSteps": 2,
+      "collectedFields": 6
+    }
+  },
+  "collected": [
+    {
+      "step": "مرحله اول",
+      "taskId": "ut_step_1",
+      "form": "form_ecf7290b",
+      "at": "2026-09-06T10:34:22.831Z",
+      "data": {
+        "number_9ajwar": 877464,
+        "datetime_766djo": "2026-09-11",
+        "number_bhs1lm": 6595
+      }
+    },
+    {
+      "step": "مرحله دوم",
+      "taskId": "Activity_01nu46v",
+      "form": "form_c5eefe3f",
+      "at": "2026-09-06T10:35:24.329Z",
+      "data": {
+        "textfield_4xfbq5": "امیرحسین صفری",
+        "textarea_9le7z": "لاباب",
+        "checklist_fr59qd": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "drafts": {
+    "Activity_01nu46v": {
+      "textfield_4xfbq5": "امیرحسین صفری",
+      "textarea_9le7z": "لاباب",
+      "checklist_fr59qd": [
+        "value"
+      ]
+    }
+  },
+  "warnings": []
+}
